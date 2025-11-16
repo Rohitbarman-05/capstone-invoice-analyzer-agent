@@ -1,6 +1,6 @@
 # Smart Invoice Analyzer Agent
 **Track:** Enterprise Agents  
-**Author:** Rohit Barman 
+**Author:** Rohit Barman
 **Short:** Extracts and validates invoice fields from PDFs/images, summarizes issues, and exports structured data.
 
 ## Features
