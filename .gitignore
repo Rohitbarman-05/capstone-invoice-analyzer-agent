@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+.vscode/
+.ipynb_checkpoints/
+data/sample_invoices/*
+data/exports/
+*.sqlite3
+.venv/
+venv/
+.idea/

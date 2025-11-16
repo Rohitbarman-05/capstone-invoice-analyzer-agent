@@ -1,0 +1,8 @@
+pdfplumber
+pytesseract
+pillow
+pandas
+requests
+pytest
+python-dotenv
+tqdm
