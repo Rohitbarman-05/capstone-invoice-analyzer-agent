@@ -1,0 +1,4 @@
+From: Acme Corp
+Invoice No: ACME-001
+Invoice Date: 12/09/2024
+Total Amount: 1,234.00
